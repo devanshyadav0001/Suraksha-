@@ -1,4 +1,5 @@
 // server.js - API server for Suraksha Yatra blockchain
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const { v4: uuidv4 } = require('uuid');
